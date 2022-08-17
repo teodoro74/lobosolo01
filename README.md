@@ -1,3 +1,3 @@
 # lobosolo01
 
-esse foi um projeto que aprendi a fazer
+esse foi um projeto que aprendi a fazer...
